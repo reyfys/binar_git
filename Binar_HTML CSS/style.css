@@ -1,0 +1,13 @@
+.text-red {
+  color: red;
+}
+
+#text-green {
+  color: green;
+}
+
+#container {
+  border: 1px solid;
+  width: 300px;
+  padding: 200px;
+}
